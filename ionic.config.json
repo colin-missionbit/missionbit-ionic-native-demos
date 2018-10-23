@@ -1,0 +1,7 @@
+{
+  "name": "missionbit-ionic-native-demos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
